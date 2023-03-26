@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#6387D3" offset="0%"></stop>
+            <stop stop-color="#2D4A86" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CRN_Homepage_V2" transform="translate(-343.000000, -8384.000000)">
+            <g id="07" transform="translate(1.000000, 7605.000000)">
+                <g id="Group-68" transform="translate(0.000000, 171.000000)">
+                    <g id="Group-60" transform="translate(188.000000, 0.000000)">
+                        <g id="Group-77" transform="translate(22.000000, 574.000000)">
+                            <g id="Group-76" transform="translate(15.000000, 34.000000)">
+                                <g id="Facebook" transform="translate(117.500000, 0.000000)">
+                                    <path d="M28.5644531,1.15555797e-31 C33.984375,1.15555797e-31 37.5,3.515625 37.5,8.93554688 L37.5,28.5644531 C37.5,33.984375 33.984375,37.5 28.5644531,37.5 L8.93554688,37.5 C3.515625,37.5 0,33.984375 0,28.5644531 L0,8.93554688 C0,3.515625 3.515625,2.69732848e-24 8.93554688,2.69732848e-24 L28.5644531,1.15555797e-31 Z" id="App-Icon-Shape" fill="url(#linearGradient-1)"></path>
+                                    <path d="M19.6162281,37.314526 L19.6162281,22.789807 L14.897638,22.789807 L14.897638,17.5666703 L19.616228,17.5666703 L19.6162281,13.7367186 C19.6162281,13.7367186 19.2768024,5.77577443 26.1661774,5.77577443 L31.7390627,5.77577443 L31.7390625,11.0973995 L28.2665625,11.0973995 C28.2665625,11.0973995 25.7109375,10.9587254 25.683125,13.5963441 L25.6831247,17.5666703 L31.3010723,17.5666703 L30.4907877,22.789807 L25.6275005,22.789807 L25.6275005,37.5 L19.6162281,37.5 L19.6162281,37.314526 Z" id="Icon" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
